@@ -1,15 +1,15 @@
 ############################################################################
-## Universidad de La Laguna						 						  ##
-## Escuela Superior de Ingeniería y Tecnología	 						  ##
-## Grado en Ingeniería Informática				 						  ##
-## Seguridad en Sistemas Informáticos			 						  ##
-## Fecha: 25/04/2017							 						  ##
-## Autor: Kevin Estévez Expósito (alu0100821390) 						  ##
-## 																		  ##
-## Práctica 6: Algoritmo de Diffie-Hellman								  ##
+## Universidad de La Laguna						  ##
+## Escuela Superior de Ingeniería y Tecnología	 			  ##
+## Grado en Ingeniería Informática				 	  ##
+## Seguridad en Sistemas Informáticos			 		  ##
+## Fecha: 25/04/2017							  ##
+## Autor: Kevin Estévez Expósito (alu0100821390) 			  ##
+## 									  ##
+## Práctica 6: Algoritmo de Diffie-Hellman				  ##
 ## Descripción: Intercambio de claves de Diffie-Hellman entre N usuarios. ##
-##											 							  ##
-## Ejecución: py diffie-hellman_mod.py									  ##
+##									  ##
+## Ejecución: py diffie-hellman_mod.py					  ##
 ############################################################################
 
 
