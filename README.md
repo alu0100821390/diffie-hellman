@@ -1,4 +1,4 @@
-# Práctica 7: Algoritmo de Diffie-Hellman
+# Práctica 6: Algoritmo de Diffie-Hellman
 
 ## Introducción
 
